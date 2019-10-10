@@ -13,11 +13,11 @@ Michael Jackson Concept Website.
 #contributers-
  Hrithik Malvani ( @hrithik20 ) 
   
-Michael Jackson Concept Website. 
+
+ Michael Jackson Concept Website. 
 
 #Owner- 
   Jai soneji
 #contributers-
-Janhvi Patil ( @janhvipatil18 )
-  
+ janhvi patil ( @janhvipatil18 )  
   
