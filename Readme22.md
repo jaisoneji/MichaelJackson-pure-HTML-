@@ -3,3 +3,6 @@ MichaelJackson-pure-HTML
 Jai Soneji
 #Contributor
 Sonia Thakur (@SoniaThakur99)
+
+#Contributor
+Amay Chugh (@Amay Chugh)
