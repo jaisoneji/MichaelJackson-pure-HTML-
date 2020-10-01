@@ -21,3 +21,7 @@ Michael Jackson Concept Website.
 #contributers-
  janhvi patil ( @janhvipatil18 )  
   
+#Owner- 
+  Jai soneji
+#contributers-
+hrit20
